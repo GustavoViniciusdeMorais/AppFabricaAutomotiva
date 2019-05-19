@@ -1,0 +1,67 @@
+.btn-h1-spacing{
+	margin-top: 18px;
+}
+
+.form-spacing-top{
+	margin-top: 30px;
+}
+
+.form-spacing-top-fields{
+	margin-top: 10px;
+}
+
+.comment {
+	margin-bottom: 45px;
+}
+
+.affix {
+    top:50px;
+    position:fixed;
+}
+
+.author-image{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float: left;
+}
+
+.carro-image{
+	width: 60%;
+  	height: auto;
+}
+
+.author-name{
+	float: left;
+	margin-left: 15px;
+}
+
+.author-name>h4 {
+	margin: 5px 0px;
+}
+
+.comment-content {
+	clear: both;
+}
+
+.author-time {
+	font-size: 11px;
+	font-style: italic;
+	color: #aaa;
+}
+
+.comment-content{
+	clear: both;
+	margin-left: 65px;
+	font-size: 16px;
+	line-height: 1.3em;
+}
+
+.comments-title {
+	margin-bottom: 45px;
+}
+
+.comments-title>span {
+	margin-right: 15px;
+}
+
